@@ -1,0 +1,9 @@
+# General
+.DS_Store
+
+# User-specific stuff
+.idea
+*.iml
+
+coverage.out
+report.json
